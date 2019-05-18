@@ -1,4 +1,4 @@
-# RBTC
+# REPOCH
 
 [![Build Status](https://travis-ci.com/lucawen/repoch.svg?branch=master)](https://travis-ci.com/lucawen/repoch)
 [![Crates.io](https://img.shields.io/crates/v/repoch.svg)](https://crates.io/crates/repoch)
