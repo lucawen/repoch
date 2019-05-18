@@ -1,0 +1,17 @@
+[package]
+name = "repoch"
+version = "0.1.0"
+authors = ["Luca Albuquerque <lucalacerda1@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/lucawen/repoch"
+homepage = "https://github.com/lucawen/repoch"
+license = "MIT"
+description = "Convert epoch to datetime and vice-versa"
+keywords = ["cli", "epoch", "datetime", "time"]
+categories = ["command-line-utilities"]
+readme = "README.md"
+
+[dependencies]
+structopt = "0.2.15"
+derive_more = "0.14.0"
+chrono = "0.4.6"
